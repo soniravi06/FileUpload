@@ -1,43 +1,43 @@
-"Name","version","Vendor","InstallDate","InstallSource"
-"Adobe Acrobat Reader DC","21.001.20155","Adobe Systems Incorporated","20210513","C:\ProgramData\Adobe\Setup\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\"
-"Adobe Refresh Manager","1.8.0","Adobe Systems Incorporated","20210210","C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\Cache\"
-"Microsoft Office Access MUI (English) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-0117-0409-0000-0000000FF1CE}-C\Access.en-us\"
-"Microsoft Office Access Setup Metadata MUI (English) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-0117-0409-0000-0000000FF1CE}-C\"
-"Microsoft Office Enterprise 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-0030-0000-0000-0000000FF1CE}-C\"
-"Microsoft Office Excel MUI (English) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-0016-0409-0000-0000000FF1CE}-C\"
-"Microsoft Office Groove MUI (English) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-0114-0409-0000-0000000FF1CE}-C\Groove.en-us\"
-"Microsoft Office Groove Setup Metadata MUI (English) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-0114-0409-0000-0000000FF1CE}-C\"
-"Microsoft Office InfoPath MUI (English) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-0044-0409-0000-0000000FF1CE}-C\"
-"Microsoft Office Office 64-bit Components 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-0030-0000-0000-0000000FF1CE}-C\"
-"Microsoft Office OneNote MUI (English) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-00A1-0409-0000-0000000FF1CE}-C\"
-"Microsoft Office Outlook MUI (English) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-001A-0409-0000-0000000FF1CE}-C\"
-"Microsoft Office PowerPoint MUI (English) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-0018-0409-0000-0000000FF1CE}-C\"
-"Microsoft Office Proof (English) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-002C-0409-0000-0000000FF1CE}-C\Proof.en\"
-"Microsoft Office Proof (French) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-002C-0409-0000-0000000FF1CE}-C\Proof.fr\"
-"Microsoft Office Proof (Spanish) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-002C-0409-0000-0000000FF1CE}-C\Proof.es\"
-"Microsoft Office Proofing (English) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-002C-0409-0000-0000000FF1CE}-C\"
-"Microsoft Office Publisher MUI (English) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-0019-0409-0000-0000000FF1CE}-C\"
-"Microsoft Office Shared 64-bit MUI (English) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-0116-0409-1000-0000000FF1CE}-C\"
-"Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-0116-0409-1000-0000000FF1CE}-C\"
-"Microsoft Office Shared MUI (English) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-0115-0409-0000-0000000FF1CE}-C\"
-"Microsoft Office Shared Setup Metadata MUI (English) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-0115-0409-0000-0000000FF1CE}-C\"
-"Microsoft Office Word MUI (English) 2007","12.0.4518.1014","Microsoft Corporation","20180823","C:\MSOCache\All Users\{90120000-001B-0409-0000-0000000FF1CE}-C\"
-"Microsoft Update Health Tools","2.77.0.0","Microsoft Corporation","20210429","C:\WINDOWS\TEMP\"
-"Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219","10.0.40219","Microsoft Corporation","20180830","C:\8518ab1f10fd5cc6695e6505471f\VC_Red_x64\"
-"Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219","10.0.40219","Microsoft Corporation","20180830","C:\8518ab1f10fd5cc6695e6505471f\VC_Red_x86\"
-"Microsoft Visual C++ 2019 X64 Additional Runtime - 14.20.27508","14.20.27508","Microsoft Corporation","20200210","C:\ProgramData\Package Cache\{4931385B-094D-4DC5-BD6A-5188FE9C51DF}v14.20.27508\packages\vcRuntimeAdditional_amd64\"
-"Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.20.27508","14.20.27508","Microsoft Corporation","20200210","C:\ProgramData\Package Cache\{F3241984-5A0E-4632-9025-AA16E0780A4B}v14.20.27508\packages\vcRuntimeMinimum_amd64\"
-"Microsoft Visual C++ 2019 X86 Additional Runtime - 14.20.27508","14.20.27508","Microsoft Corporation","20200210","C:\ProgramData\Package Cache\{C9DE51F8-7846-4621-815D-E8AFD3E3C0FF}v14.20.27508\packages\vcRuntimeAdditional_x86\"
-"Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.20.27508","14.20.27508","Microsoft Corporation","20200210","C:\ProgramData\Package Cache\{B96F6FA1-530F-42F1-9F71-33C583716340}v14.20.27508\packages\vcRuntimeMinimum_x86\"
-"Microsoft Visual Studio 2010 Tools for Office Runtime (x64)","10.0.60729","Microsoft Corporation","20180830","C:\5f49555cdbb115ac20b02397ae1d5aa9\"
-"Sophos Anti-Virus","10.8.10.810","Sophos Limited","20210209","C:\ProgramData\Sophos\AutoUpdate\Cache\decoded\savxp\"
-"Sophos AutoUpdate XG","6.7.352.0","Sophos Limited","20210512","C:\ProgramData\Sophos\AutoUpdate\Cache\decoded\sau\"
-"Sophos Data Protection Agent 2.0.81.0","2.0.81.0","Sophos Limited","20210512","C:\ProgramData\Sophos\AutoUpdate\Cache\decoded\enc\"
-"Sophos Diagnostic Utility","6.8.296.0","Sophos Limited","20210512","C:\ProgramData\Sophos\AutoUpdate\Cache\decoded\sdu\"
-"Sophos Endpoint Agent","2.2.6.0","Sophos Limited","20210512","C:\ProgramData\Sophos\AutoUpdate\Cache\decoded\ui64\"
-"Sophos Endpoint Firewall","1.2.0.17","Sophos Limited","20210512","C:\ProgramData\Sophos\AutoUpdate\Cache\decoded\efw64\"
-"Sophos Endpoint Self Help","3.0.217.0","Sophos Limited","20201203","C:\ProgramData\Sophos\AutoUpdate\Cache\decoded\esh64\"
-"Sophos Network Threat Protection","1.11.194.0","Sophos Limited","20210526","C:\ProgramData\Sophos\AutoUpdate\Cache\decoded\ntp64\"
-"Update for Windows 10 for x64-based Systems (KB4023057)","2.57.0.0","Microsoft Corporation","20190405","C:\WINDOWS\SoftwareDistribution\Download\8543bc3ba23153cfa8f97cec64d84b71\img\"
-"7-Zip 19.00 (x64)","19.00"
-"Sophos Clean","3.9.4.1"
+Name,version,Vendor,InstallDate,InstallSource
+Adobe Acrobat Reader DC,21.001.20155,Adobe Systems Incorporated,20210513,C:\ProgramData\Adobe\Setup\{AC76BA86-7AD7-1033-7B44-AC0F074E4100}\
+Adobe Refresh Manager,1.8.0,Adobe Systems Incorporated,20210210,C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\Cache\
+Microsoft Office Access MUI (English) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-0117-0409-0000-0000000FF1CE}-C\Access.en-us\
+Microsoft Office Access Setup Metadata MUI (English) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-0117-0409-0000-0000000FF1CE}-C\
+Microsoft Office Enterprise 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-0030-0000-0000-0000000FF1CE}-C\
+Microsoft Office Excel MUI (English) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-0016-0409-0000-0000000FF1CE}-C\
+Microsoft Office Groove MUI (English) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-0114-0409-0000-0000000FF1CE}-C\Groove.en-us\
+Microsoft Office Groove Setup Metadata MUI (English) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-0114-0409-0000-0000000FF1CE}-C\
+Microsoft Office InfoPath MUI (English) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-0044-0409-0000-0000000FF1CE}-C\
+Microsoft Office Office 64-bit Components 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-0030-0000-0000-0000000FF1CE}-C\
+Microsoft Office OneNote MUI (English) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-00A1-0409-0000-0000000FF1CE}-C\
+Microsoft Office Outlook MUI (English) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-001A-0409-0000-0000000FF1CE}-C\
+Microsoft Office PowerPoint MUI (English) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-0018-0409-0000-0000000FF1CE}-C\
+Microsoft Office Proof (English) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-002C-0409-0000-0000000FF1CE}-C\Proof.en\
+Microsoft Office Proof (French) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-002C-0409-0000-0000000FF1CE}-C\Proof.fr\
+Microsoft Office Proof (Spanish) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-002C-0409-0000-0000000FF1CE}-C\Proof.es\
+Microsoft Office Proofing (English) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-002C-0409-0000-0000000FF1CE}-C\
+Microsoft Office Publisher MUI (English) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-0019-0409-0000-0000000FF1CE}-C\
+Microsoft Office Shared 64-bit MUI (English) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-0116-0409-1000-0000000FF1CE}-C\
+Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-0116-0409-1000-0000000FF1CE}-C\
+Microsoft Office Shared MUI (English) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-0115-0409-0000-0000000FF1CE}-C\
+Microsoft Office Shared Setup Metadata MUI (English) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-0115-0409-0000-0000000FF1CE}-C\
+Microsoft Office Word MUI (English) 2007,12.0.4518.1014,Microsoft Corporation,20180823,C:\MSOCache\All Users\{90120000-001B-0409-0000-0000000FF1CE}-C\
+Microsoft Update Health Tools,2.77.0.0,Microsoft Corporation,20210429,C:\WINDOWS\TEMP\
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219,10.0.40219,Microsoft Corporation,20180830,C:\8518ab1f10fd5cc6695e6505471f\VC_Red_x64\
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219,10.0.40219,Microsoft Corporation,20180830,C:\8518ab1f10fd5cc6695e6505471f\VC_Red_x86\
+Microsoft Visual C++ 2019 X64 Additional Runtime - 14.20.27508,14.20.27508,Microsoft Corporation,20200210,C:\ProgramData\Package Cache\{4931385B-094D-4DC5-BD6A-5188FE9C51DF}v14.20.27508\packages\vcRuntimeAdditional_amd64\
+Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.20.27508,14.20.27508,Microsoft Corporation,20200210,C:\ProgramData\Package Cache\{F3241984-5A0E-4632-9025-AA16E0780A4B}v14.20.27508\packages\vcRuntimeMinimum_amd64\
+Microsoft Visual C++ 2019 X86 Additional Runtime - 14.20.27508,14.20.27508,Microsoft Corporation,20200210,C:\ProgramData\Package Cache\{C9DE51F8-7846-4621-815D-E8AFD3E3C0FF}v14.20.27508\packages\vcRuntimeAdditional_x86\
+Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.20.27508,14.20.27508,Microsoft Corporation,20200210,C:\ProgramData\Package Cache\{B96F6FA1-530F-42F1-9F71-33C583716340}v14.20.27508\packages\vcRuntimeMinimum_x86\
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64),10.0.60729,Microsoft Corporation,20180830,C:\5f49555cdbb115ac20b02397ae1d5aa9\
+Sophos Anti-Virus,10.8.10.810,Sophos Limited,20210209,C:\ProgramData\Sophos\AutoUpdate\Cache\decoded\savxp\
+Sophos AutoUpdate XG,6.7.352.0,Sophos Limited,20210512,C:\ProgramData\Sophos\AutoUpdate\Cache\decoded\sau\
+Sophos Data Protection Agent 2.0.81.0,2.0.81.0,Sophos Limited,20210512,C:\ProgramData\Sophos\AutoUpdate\Cache\decoded\enc\
+Sophos Diagnostic Utility,6.8.296.0,Sophos Limited,20210512,C:\ProgramData\Sophos\AutoUpdate\Cache\decoded\sdu\
+Sophos Endpoint Agent,2.2.6.0,Sophos Limited,20210512,C:\ProgramData\Sophos\AutoUpdate\Cache\decoded\ui64\
+Sophos Endpoint Firewall,1.2.0.17,Sophos Limited,20210512,C:\ProgramData\Sophos\AutoUpdate\Cache\decoded\efw64\
+Sophos Endpoint Self Help,3.0.217.0,Sophos Limited,20201203,C:\ProgramData\Sophos\AutoUpdate\Cache\decoded\esh64\
+Sophos Network Threat Protection,1.11.194.0,Sophos Limited,20210526,C:\ProgramData\Sophos\AutoUpdate\Cache\decoded\ntp64\
+Update for Windows 10 for x64-based Systems (KB4023057),2.57.0.0,Microsoft Corporation,20190405,C:\WINDOWS\SoftwareDistribution\Download\8543bc3ba23153cfa8f97cec64d84b71\img\
+7-Zip 19.00 (x64),19.00,,,
+Sophos Clean,3.9.4.1,,,
