@@ -6,6 +6,7 @@ file_path_name,C:\kworking\agent.crt,Revil dropper used in Kaseya exploit
 sha256,d55f983c994caa160ec63a59f6b4250fe67fb3e8c43a388aec60a4a6978e9f1,Revil dropper used in Kaseya exploit
 file_path_name,C:\windows\mpsvc.dll,Revil ransomware DLL
 sha256,8dd620d9aeb35960bb766458c8890ede987c33d239cf730f93fe49d90ae759dd,Revil ransomware DLL
+sha256,07034876b9ec0b59432b96fedb7e10e332440159f9802faad5f5b99f01885f6b,Test SHA256
 domain,ncuccr.org,
 domain,1team.es,
 domain,4net.guru,
