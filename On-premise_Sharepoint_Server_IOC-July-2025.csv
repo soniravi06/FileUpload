@@ -1,0 +1,10 @@
+Indicator_type,Data,Note
+File name,Spinstall0.aspx,"Web shell used by threat actors   Actors have also modified the file name in a variety of ways, such as spinstall.aspx, spinstall1.aspx, spinstall2.aspx"
+File name,debug_dev.js,"File containing web config data, including MachineKey data"
+SHA-256,92bb4ddb98eeaf11fc15bb32e71d0a63256a0ed826a03ba293ce3a8bf057a514,Hash of spinstall0.aspx
+URL,c34718cbb4c6.ngrok-free.app/file.ps1,Ngrok tunnel delivering PowerShell to C2
+File path,\1[5-6]\TEMPLATE\LAYOUTS\debug_dev.js,File path for stolen web configs
+IP,131.226.2.6,Post exploitation C2
+IP,134.199.202.205,IP address exploiting SharePoint vulnerabilities
+IP,104.238.159.149,IP address exploiting SharePoint vulnerabilities
+IP,188.130.206.168,IP address exploiting SharePoint vulnerabilities
