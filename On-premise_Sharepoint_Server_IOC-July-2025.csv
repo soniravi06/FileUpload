@@ -1,5 +1,6 @@
 Indicator_type,Data,Note
-file_name,Spinstall0.aspx,"Web shell used by threat actors   Actors have also modified the file name in a variety of ways, such as spinstall.aspx, spinstall1.aspx, spinstall2.aspx"
+file_name,Spinstall0.aspx,"Web shell used by threat actors"
+file_name,Spin%.aspx, "Actors have also modified the file name in a variety of ways, such as spinstall.aspx, spinstall1.aspx, spinstall2.aspx"
 file_name,debug_dev.js,"File containing web config data, including MachineKey data"
 sha256,92bb4ddb98eeaf11fc15bb32e71d0a63256a0ed826a03ba293ce3a8bf057a514,Hash of spinstall0.aspx
 domain,c34718cbb4c6.ngrok-free.app/file.ps1,Ngrok tunnel delivering PowerShell to C2
